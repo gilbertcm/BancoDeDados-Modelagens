@@ -27,7 +27,7 @@
     </Template>
 	</Informacoes>
 	<Entidades>
-    <Entidade nome="Operário" id="1">
+    <Entidade nome="OperÃ¡rio" id="1">
       <Left Valor="665"/>
       <Top Valor="186"/>
       <Width Valor="102"/>
